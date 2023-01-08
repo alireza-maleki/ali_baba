@@ -200,7 +200,7 @@ export default function AutomaticScrollButton(props) {
             <Tab onClick={energyHandler} label="کافی شاپ" />
             <Tab onClick={accessorysHandler} label="خدمات مرتبط" />
             <Tab onClick={cunsumerHandler} label="آماده سازی" />
-            {/* <Tab onClick={categoryHandler} label="All categoris" /> */}
+            <Tab onClick={categoryHandler} label="All categoris" />
 
 
           </Tabs>
